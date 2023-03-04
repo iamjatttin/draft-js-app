@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+.SpaceEntity {
+  white-space: pre;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
